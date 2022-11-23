@@ -1,0 +1,5 @@
+{
+    "css.lint.idSelector": "ignore",
+    "less.lint.idSelector": "ignore",
+    "scss.lint.idSelector": "ignore"
+}
